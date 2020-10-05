@@ -38,6 +38,7 @@
 ---
 
 Dynamoose is a modeling tool for Amazon's DynamoDB (inspired by [Mongoose](https://mongoosejs.com/)).
+This is a forked repo to fix a few breaking issues so that I can use Dynamoose in a production environment until the main repo is updated.
 
 ### Dynamoose is Sponsored by Dynobase
 ​
